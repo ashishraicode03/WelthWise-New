@@ -1,5 +1,12 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI, that helps users manage expenses, analyze spending patterns, and make smarter financial decisions through intelligent insights.
 
+#Key Features
+💰 Track daily income and expenses
+📊 Visualize spending with interactive charts
+🤖 AI-powered insights and recommendations
+📅 Monthly and category-wise expense analysis
+🔐 Secure and private data handling
+📈 Smart financial summaries and trends
 
 <img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
 
